@@ -1,0 +1,25 @@
+.brand-logo h1{color:rgb(250, 241, 241);font-family: arial , sans-serif;}
+ .brand-logo span {color:#d4f51a;font-weight: bold;font-style: italic;text-shadow:1px 1px 2px rgba(0,0,0,0.2);}
+header{background-color: rgb(41, 91, 230);
+display:flex ;
+align-items: center;
+margin: 0px;
+justify-content:space-between;
+padding: 0px 40px;
+border-radius: 10px;}
+figure{margin:0;}
+nav span a{color: white;
+padding: 0 20px;  } 
+nav a button{padding:5px 15px;
+background-color: rgb(190, 9, 9);
+color:white;border:none;border-radius: 15px;
+}
+nav span a:hover{background-color: rgb(8, 182, 182);
+border-radius: 15px;}
+nav a button:hover
+{background-color:rgb(243, 40, 40);}
+header img{height:60px;width:85p;
+padding:5px 0 5px 0;}
+section1{background-color: rgb(59, 110, 250);
+color: white;
+align-items: center;}
